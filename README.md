@@ -1,6 +1,6 @@
 # Homework 1 — Rating Prediction: Regression & Classification
 
-Coursework for **UCSD CSE 158/258 (Recommender Systems & Web Mining)**, Fall 2026.
+Coursework for **UCSD DSC256R (Recommender Systems & Web Mining)**, Fall 2026.
 Submitted as a single file (`homework1.py`) to the course autograder.
 
 ## What this assignment covers
